@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning java programming!
 - 👯 I’m looking to collaborate on android application projects!
 - 💬 Ask me about Programming,machine learning!
-- 📫 How to reach me: 
+- 📫 How to reach me: prathameshjadhav136@gmail.com
 
 ---
 
